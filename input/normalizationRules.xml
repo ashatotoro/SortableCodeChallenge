@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <Dictionary name="Synonym">
+    <add word="hewlett packard" normalizedWord="hp" />
+    <add word="konica minolta|konica|minolta" normalizedWord="konicaminolta" />
+    <add word="canada" normalizedWord="" />
+    <add word="us" normalizedWord="" />
+    <add word="united states" normalizedWord="us" />
+    <add word="china" normalizedWord="" />
+    <add word="japan" normalizedWord="" />
+    <add word="power shot" normalizedWord="powershot" />
+    <add word="cyber shot" normalizedWord="cybershot" />
+    <add word="digital ixus" normalizedWord="ixus" />
+    <add word="\-" normalizedWord=""/>
+    <add word="\–" normalizedWord=""/>
+    <add word="'" normalizedWord=""/>
+    <add word='"' normalizedWord=" "/>
+    <add word="\." normalizedWord=""/>
+    <add word="&amp;" normalizedWord=" "/>
+  </Dictionary>
+</Root>
