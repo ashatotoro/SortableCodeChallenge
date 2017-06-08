@@ -10,5 +10,5 @@ Steps for the solution:
 4. Extract family to match on the second layer to get the related Model.
    If model matched, the listing is belong to this product.
    
-Running time: 6 seconds.
+Running time: 6 seconds.  (ubuntu 14.10 8G RAM Intel i7-6500u)
 
